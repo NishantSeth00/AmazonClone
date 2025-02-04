@@ -1,2 +1,2 @@
 # AmazonClone
-Practise
+Practice       # By Nishant Seth
